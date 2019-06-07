@@ -1,0 +1,5 @@
+owner=480114808444682271
+prefix=1play=Type 2help
+stayinchannel=true
+songinstatus=false
+token=NTQ3MDA1MjY2NTA4MzgyMjA4.XPppOA.hnRYiKvz1TV_wOFIsw5nZXre5-M
